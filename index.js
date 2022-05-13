@@ -8,6 +8,6 @@ const num3 = 10;
 const num4 = 6;
 const mod = num3 % num4;
 
-const max = Math.max(3, 6, 18, 20);
+const max = Math.max(5, 6, 12, 20);
 
 console.log(random);
